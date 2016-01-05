@@ -6,3 +6,4 @@ large_text_under_10M.log filter=lfs diff=lfs merge=lfs -text
 heic1502a.tif filter=lfs diff=lfs merge=lfs -text
 PCMWaveCarmit_under10M.bin filter=lfs diff=lfs merge=lfs -text
 PCMWaveVicki_over10M.bin filter=lfs diff=lfs merge=lfs -text
+rover_with_history.jpg filter=lfs diff=lfs merge=lfs -text
